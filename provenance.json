@@ -1,0 +1,9 @@
+{
+  "package": "ayla-tools-browse",
+  "origin": "original",
+  "upstream": null,
+  "sourceRepository": "https://github.com/kekma-dot/ayla-tools-browse",
+  "publicDistribution": "clean-curated-snapshot",
+  "family": "Ayla tools",
+  "notes": "Original Ayla tooling. Not a fork and not derived from another published project. Requires the ayla-tools-web engine for search and fetching."
+}
